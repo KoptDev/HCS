@@ -1,0 +1,8 @@
+name: HCS
+main: me.kopt.HCS.Main
+version: 1.0
+author: Kopt
+description: A advanced HCF Kits Signs plugin...
+commands:
+     hcs:
+        description: Use for all information related to HCS...
