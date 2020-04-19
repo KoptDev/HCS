@@ -1,4 +1,7 @@
-# HCS
+# HCSv1.0
+
+Below is the sourcecode for HCSv1.0.
+
 ⋙ Ultimate HCF // Kitmap Signs Plugin featuring numerous features
 
 
